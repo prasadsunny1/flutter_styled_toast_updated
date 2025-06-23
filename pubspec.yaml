@@ -1,10 +1,11 @@
-name: flutter_styled_toast
-description: "A new Flutter project."
+name: flutter_styled_toast_updated
+description: Revival of an flutter_styled_toast pkg
 version: 0.0.1
-homepage:
+homepage: https://github.com/prasadsunny1/flutter_styled_toast_updated
+email: prasadsunny1@gmail.com
 
 environment:
-  sdk: ^3.8.1
+  sdk: ^3.5.3
   flutter: ">=1.17.0"
 
 dependencies:
